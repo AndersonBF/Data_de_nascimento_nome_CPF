@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1680640277 source:c:\users\ander\códigosvisualstudiocode\dataepessoa\data.cpp
+	"data.hpp"
+	<iostream>
+	<ctime>
+	<vector>
+
+1680197334 c:\users\ander\códigosvisualstudiocode\dataepessoa\data.hpp
+	<iostream>
+
+1680800292 source:c:\users\ander\códigosvisualstudiocode\dataepessoa\main.cpp
+	<iostream>
+	<ctime>
+	"data.hpp"
+	"pessoa.hpp"
+
+1680036672 c:\users\ander\códigosvisualstudiocode\dataepessoa\pessoa.hpp
+	<iostream>
+	<chrono>
+	"data.hpp"
+
+1680281255 source:c:\users\ander\códigosvisualstudiocode\dataepessoa\pessoa.cpp
+	"pessoa.hpp"
+
+1680797295 source:c:\users\ander\códigosvisualstudiocode\cmaismais.cpp
+	<iostream>
+	<locale>
+	<string>
+
